@@ -19,4 +19,4 @@ Open any `.html` file directly in a browser — no server or build step required
 
 ## Architecture
 
-- **tictactoe.html** — Single-file Tic Tac Toe game (HTML + CSS + JS embedded). Features a minimax AI opponent and a 2-player local mode.
+- **index.html** — Single-file Tic Tac Toe game (HTML + CSS + JS embedded). Features a minimax AI opponent and a 2-player local mode.
